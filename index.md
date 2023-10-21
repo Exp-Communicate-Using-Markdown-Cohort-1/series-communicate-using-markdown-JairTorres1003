@@ -5,3 +5,7 @@
 ```ts
 const MY_VARIBLE: string = 'Hello Word!'
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
